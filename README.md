@@ -1,14 +1,7 @@
-| 👩‍💻 Current Projects | Project Description |
-| --- | --- |
-| Genesis | Private Discord Bot |
-| Genesis Dashboard | Dashboard to control the Genesis Discord Bot  |
+<!--START_SECTION:waka-->
 
-| 👩‍💻 Currently Learning |
-| --- |
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="1" width="40"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Microsoft_.NET_logo.png/80px-Microsoft_.NET_logo.png" alt="2" width="40"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="3" width="40"> |
-<br/>
-<br/>
-<br/>
+<!--END_SECTION:waka-->
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arw1n&show_icons=true&theme=github_dark&locale=en" alt="arw1n" /></p>
 
 <!--
