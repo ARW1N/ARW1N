@@ -1,5 +1,7 @@
-**👩‍💻 Current Project**
+**👩‍💻 Current Projects**
 - Genesis
+
+
 
 **🧠 Currently Learning**
 <p align="left">
